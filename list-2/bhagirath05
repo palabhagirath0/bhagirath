@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+float area(float r,const float pi = 3.14)
+{
+	cout<<"Area of circle : "<<pi*r*r;
+}
+int main()
+{
+	float r;
+	
+	cout<<"I am bhagirath pala "<<endl;
+	cout<<"En_no    220130318019 "<<endl;
