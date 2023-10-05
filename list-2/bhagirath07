@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+inline int Square(int a) 
+{
+	return a*a;
+}
+int main() 
+{
+	int a;
+	cout<<"I am bhagirath pala "<<endl;
+	cout<<"En_no    220130318019 "<<endl;
+	cout<<"---------------------"<<endl;
