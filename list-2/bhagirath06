@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+inline int cube(int r) 
+{
+	return r*r*r;
+}
+int main() 
+{
+	int r;
+  cout<<"I am bhagirath pala "<<endl;
+	cout<<"En_no    220130318019 "<<endl;
+	cout<<"---------------------"<<endl;
