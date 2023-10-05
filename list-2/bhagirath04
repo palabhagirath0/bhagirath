@@ -1,0 +1,12 @@
+// CPP Program to demonstrate Default Arguments
+#include<iostream>
+using namespace std;
+int sum(int A,int B,int C=0,int D=0) 
+{
+	return(A+B+C+D);
+}
+int main()
+{
+  cout<<"I am  bhagirath pala "<<endl;
+	cout<<"En_no    220130318019 "<<endl;
+	cout<<"---------------------"<<endl;
