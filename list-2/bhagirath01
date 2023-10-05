@@ -5,7 +5,7 @@ main()
 {
 	// Scope resolution program 
 	cout<<"I am bhagirath pala "<<endl;
-	cout<<"En_no    220130318030 "<<endl;
+	cout<<"En_no    220130318019 "<<endl;
 	cout<<"---------------------"<<endl;
 	cout<<"value of Global variable is m & its value  ::  "<<::m;// scop resolution 
 	return 0;
