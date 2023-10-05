@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int num;
+int& test();
+
+int main() {
+  test() = 5;
+  cout<<"I am bhagirath pala "<<endl;
+	cout<<"En_no    220130318019 "<<endl;
+	cout<<"---------------------"<<endl;
+  cout << num;
+  return 0;
